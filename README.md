@@ -1,0 +1,58 @@
+# 🎓 Welcome to Hall of Codes
+
+We're thrilled to have you here! **Hall of Codes** is a growing community of developers who collaborate, build, and learn together. Whether you're a beginner or a pro, you're welcome here.
+
+---
+
+## 🚀 How to Join the GitHub Organization
+
+Joining our GitHub org gives you access to:
+
+- 🔓 Contributor-only projects
+- 💬 Private discussions
+- 🎉 Community recognition on your GitHub profile
+- 🛠️ Opportunities to collaborate and learn
+
+---
+
+### ✅ Step-by-Step Instructions
+
+1. **Open an issue** in this repository with the title:
+
+   Request to join
+
+2. **Add the `invite` label** to your issue  
+This lets our automation know you're requesting an invitation.  
+
+3. Once your request is processed, you'll receive an invite to the organization.
+
+4. After accepting the invite, **make your membership public** so others can see you're part of the Hall of Codes.
+
+---
+
+### 🌐 How to Make Your Membership Public
+
+After you've accepted the invite:
+
+1. Go to the [Hall of Codes Members Page](https://github.com/orgs/hallofcodes/people)
+2. Find your username
+3. Click the dropdown beside your name and select **Public**
+
+> ✅ This will display the org badge on your GitHub profile — show it off with pride!
+
+---
+
+## 🤝 Code of Conduct
+
+By joining the organization, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Be kind, helpful, and respectful to all members.
+
+---
+
+## 📩 Questions?
+
+If you have any issues or questions:
+
+- Open a discussion
+- Or reach out in the issue comments
+
+Welcome aboard! 🎉

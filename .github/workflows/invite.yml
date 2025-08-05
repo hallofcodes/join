@@ -1,0 +1,20 @@
+name: Invite user to org
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    if: github.event.issue.title == 'Request to Join'
+    steps:
+      - name: Invite
+        uses: vj-abigo/invite-on-label@v1.4
+        with:
+          organization: hallofcodes
+          label: invite
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: "<b>🎉 Welcome to Hall of Codes! 🎉</b><br><br>We're excited to have you join our community of developers! 💻✨<br><br>After accepting the invitation, be sure to make your membership public so it shows up on your GitHub profile. Here's how:<br>1. Visit <a href=\"https://github.com/orgs/hallofcodes/people\">our members page</a><br>2. Find your name in the list<br>3. Click the dropdown next to your name and select <b>Public</b><br><br>Let the world know you're part of Hall of Codes! 🚀<br>If you have any questions, feel free to open an issue or reach out. Happy coding! 💡"
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}

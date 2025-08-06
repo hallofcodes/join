@@ -18,15 +18,19 @@ Joining our GitHub org gives you access to:
 ### ✅ Step-by-Step Instructions
 
 1. **Open an issue** in this repository with the title:
+   ```
+   Your Name <youremail>
 
-   Request to join
+   Example:
+   Melvin Jones Repol <mrepol742@gmail.com>
+   ```
 
-2. **Add the `invite` label** to your issue  
+3. **Add the `invite` label** to your issue  
 This lets our automation know you're requesting an invitation.  
 
-3. Once your request is processed, you'll receive an invite to the organization.
+4. Once your request is processed, you'll receive an invite to the organization.
 
-4. After accepting the invite, **make your membership public** so others can see you're part of the Hall of Codes.
+5. After accepting the invite, **make your membership public** so others can see you're part of the Hall of Codes.
 
 ---
 

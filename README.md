@@ -2,6 +2,8 @@
 
 We're thrilled to have you here! **Hall of Codes** is a growing community of developers who collaborate, build, and learn together. Whether you're a beginner or a pro, you're welcome here.
 
+We revolutionize development by fostering cohesion among teams, transcending conflicts to drive collective innovation. Harnessing the synergy of diverse talents, we pave the way for seamless collaboration, ensuring projects thrive in an environment of unity and progress.
+
 ---
 
 ## 🚀 How to Join the GitHub Organization
@@ -46,9 +48,9 @@ After you've accepted the invite:
 
 ---
 
-## 🤝 Code of Conduct
+## 🤝 Community Guidelines
 
-By joining the organization, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Be kind, helpful, and respectful to all members.
+By joining the organization, you agree to follow our [Community Guidelines](https://www.hallofcodes.org/community-guidelines). Be kind, helpful, and respectful to all members.
 
 ---
 
